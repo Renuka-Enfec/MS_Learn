@@ -38,9 +38,11 @@ public class AllNoneOfTheAbove_option_TC {
 				
 			}
 	        else {
-	            System.out.println("'All of the above' or 'None of the above' options are not present for question option");
+	            System.out.println("'Not a All of the above' or 'None of the above' option ");
+	        	System.out.println();
 	        }
 	    }
+	    System.out.println();
 
 	    driver.quit();
 
